@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hii Everyone! It's Kunal Kore - I am a Learner. 
 
-<!--
-**kunalkore-learner/kunalkore-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am currently a Student try to learn Code and More.
+- On 14 Dec 2024, I am Creating learnpython.github.io Project, where i will try to teach other to Code. I am a Intermediate. I am not a Expert.
 
-Here are some ideas to get you started:
+## Experience With Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Programming Language 
+
+- Python: Intermediate
+- JavaScript: Intermediate
+- TypeScript: Beginner
+- C++: Intermediate (Kind off)
+- C: Intermediate
+- HTML: Expert
+- CSS: Expert
+- SQL: Intermediate
+
+# FrameWork 
+
+- Next JS: Intermediate
+- MERN {Mongo DB, Express js, React, Node.js}: Beginner
+- React Native with Expo: Beginner
+- Tailwind CSS: Expert
+- Bootstrap: Expert
+
+# Machine Learning
+
+- PyTorch: Intermediate
+- Tensorflow: Intermediate
+- Ollama: Beginner
+- Keras: Intermediate
+- Pandas: Beginner
+- Sciket-Learn: Just Started
+
+Thanks for Reading!
