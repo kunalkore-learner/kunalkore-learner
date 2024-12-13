@@ -1,11 +1,11 @@
-### Hii Everyone! It's Kunal Kore - I am a Learner. 
+# Hii Everyone! It's Kunal Kore - I am a Learner. 
 
 - I am currently a Student try to learn Code and More.
 - On 14 Dec 2024, I am Creating learnpython.github.io Project, where i will try to teach other to Code. I am a Intermediate. I am not a Expert.
 
-## Experience With Technologies
+# Experience With Technologies
 
-# Programming Language 
+## Programming Language 
 
 - Python: Intermediate
 - JavaScript: Intermediate
@@ -16,7 +16,7 @@
 - CSS: Expert
 - SQL: Intermediate
 
-# FrameWork 
+## FrameWork 
 
 - Next JS: Intermediate
 - MERN {Mongo DB, Express js, React, Node.js}: Beginner
@@ -24,7 +24,7 @@
 - Tailwind CSS: Expert
 - Bootstrap: Expert
 
-# Machine Learning
+## Machine Learning
 
 - PyTorch: Intermediate
 - Tensorflow: Intermediate
